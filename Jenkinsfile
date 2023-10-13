@@ -6,12 +6,7 @@ pipeline{
     stages{
         stage("Build docker"){
             steps{
-                sh "docker compose up --build counter-service"
-            }
-        }
-        stage("Build Swagger"){
-            steps{
-                echo "Building swagger"
+                sh "docker compose up counter-service"
             }
         }
     }
