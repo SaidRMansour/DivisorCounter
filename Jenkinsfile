@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage("Build docker"){
             steps{
-                sh "docker compose up counter-service"
+                sh "echo $PATH"
             }
         }
     }
