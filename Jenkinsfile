@@ -6,7 +6,7 @@ pipeline{
     stages{
         stage("Build docker"){
             steps{
-                sh "/usr/local/bin/docker compose up counter-service"
+                sh "/usr/local/bin/docker compose up --build counter-service"
             }
         }
     }
