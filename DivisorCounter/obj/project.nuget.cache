@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3X5y2xYXKrQmOR8HV7mUZdOpfaRk+bc7v+Yg0FqP2zCXbjrOlVtwOVyzubBOpDK0ieB/eZFOC7qidPUKN3xcyA==",
+  "success": true,
+  "projectFilePath": "/Users/saidr/Projects/DivisorCounter-3/DivisorCounter/DivisorCounter.csproj",
+  "expectedPackageFiles": [
+    "/Users/saidr/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/polly/8.0.0-beta.2/polly.8.0.0-beta.2.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/polly.core/8.0.0-beta.2/polly.core.8.0.0-beta.2.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/restsharp/110.2.1-alpha.0.13/restsharp.110.2.1-alpha.0.13.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/saidr/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
